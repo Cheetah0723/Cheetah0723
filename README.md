@@ -154,7 +154,7 @@
 <p align=center>
   <div align=center>
     <a href="#" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=freedevsoft&theme=react&border=61dafb&hide_border=true" alt="freedevsoft" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=freedevsoft&theme=react&border=#61dafb&hide_border=true" alt="freedevsoft" />
     </a>
     <a href="#" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=freedevsoft&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
@@ -174,7 +174,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freedevsoft&theme=react-dark&bg_color=20232a&hide_border=true" alt="freedevsoft" /></a>
+    <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=freedevsoft&theme=react-dark&bg_color=20232a&hide_border=true" alt="freedevsoft" /></a>
   </div>
   <br>
 </p>
