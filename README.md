@@ -174,7 +174,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=freedevsoft&theme=react-dark&bg_color=20232a&hide_border=true" alt="freedevsoft" /></a>
+    <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=freedevsoft&theme=react-dark&bg_color=#20232a&hide_border=true" alt="freedevsoft" /></a>
   </div>
   <br>
 </p>
